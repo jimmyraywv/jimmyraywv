@@ -22,8 +22,10 @@ Here are some ideas to get you started:
   <li><a href="https://jimmyray.org/" target="_blank">About Me (site)</a></li></li>
 </ul></td></tr></table>
 
-<img src="/img/monk-lion.jpg" width="200">
+<img src="/img/monk-lion.jpg" width="200"><br/>
+
 [Bio](/BIO.md)
+
 [About Me (site)](https://jimmyray.org/)
 
 _Learner — Achiever — Strategic — Responsibility — Intellection_
