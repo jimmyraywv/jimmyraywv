@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border: 0px solid navy;"><tr><td><img src="/img/me.jpeg" width="100">
+<table style="border: 0px solid navy;"><tr><td><img src="/img/monk-lion.jpg" width="200">
   </td><td>
   <ul>
   <li><a href="/BIO.md" target=_blank>Bio</a></li>
