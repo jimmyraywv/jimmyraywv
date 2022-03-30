@@ -2,7 +2,7 @@ I am about distilling simplicity from complexity.
 
 I am currerntly a Sr. Developer Advocate on the AWS Kubernetes team, supporting [Amazon EKS](https://aws.amazon.com/eks/) and [Kubernetes](https://www.youtube.com/watch?v=DfmQWYiwFDk).
 
-I am a programmer/developer that focuses on, and lead efforts, to adopt Cloud and Container technologies.
+I am a programmer/developer that focuses on Cloud and Container technology adoption.
 
 As a technology leader and serial pundit, I use my love of learning and teaching, and my knowledge and thought-leadership in cloud and container technologies, to assist organizations to discover and develop extensible and sustainable solutions.
 
