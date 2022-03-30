@@ -22,3 +22,13 @@
 - OpenStack Summit 2014, 05/2014, Atlanta, GA
 ## MongoDB and Spring Data Integration
 - 08/2012 - 02/2014, Various US Locations
+- [SlideShare](https://www.slideshare.net/jimmyray5832/mongodb-24-and-spring-data)
+## Dynamic Groovy Edges
+- 02/2012 Richmond RJUG RVA, 05/2012 TriJUG, Durham, NC
+- [SlideShare](https://www.slideshare.net/jimmyray5832/dynamic-groovy-edges)
+## PMP Workshop – PMBOK (PMP Framework, Risk, Communications, Integration)
+- 10/2020, PMI Central VA Chapter
+## Lotus Domino - Web Services and RAD
+- Advisor Summit, 04/2006, Las Vegas, NV
+## The VIEW Developer Workshop and Technical Conferences
+- 2003-2004, Chicago, Boston, Philadelphia, Geneva-Switzerland, and Amsterdam-Netherlands
