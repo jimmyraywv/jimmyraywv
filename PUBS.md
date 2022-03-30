@@ -1,3 +1,4 @@
+# Online
 ## The Container Supply Chain Model
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 12/2021
@@ -50,3 +51,19 @@
 - [Capital One Tech](https://www.capitalone.com/tech/)
 - 10/2018
 - https://medium.com/capital-one-tech/json-processing-pipelines-with-gron-6fbd531155d7
+
+# Print
+## Rediscover IT Innovation
+- Advisor IT Architect
+- 03/2007
+## Top techniques for integrating AJAX into your new and existing J2EE applications
+- The SPHERE Journal
+- 10/2006
+## Java 1.5 Annotations
+- WebSphere Advisor
+- 12/2005
+## Java 1.5 Generics
+- WebSphere Advisor
+- 11/2005
+
+
