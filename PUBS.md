@@ -1,0 +1,52 @@
+## The Container Supply Chain Model
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 12/2021
+- https://blog.jimmyray.io/the-container-supply-chain-model-7f6901117618
+## Deploying Kubernetes Resources with CDK8s ITNEXT
+- 07/2021
+- https://itnext.io/deploying-kubernetes-resources-with-cdk8s-2c8b07bc45b1
+## AWS CDK for EKS — Handling Helm Charts
+- [ITNEXT](https://itnext.io/)
+- 05/2021
+- https://itnext.io/aws-cdk-for-eks-handling-helm-charts-aa002afedde4
+## AWS CDK for EKS — Kubernetes Manifest Handling
+- [ITNEXT](https://itnext.io/)
+- 05/2021
+- https://itnext.io/aws-cdk-for-eks-kubernetes-manifest-handling-ebdec52e7f01
+## Using Dex & dex-k8s- authenticator to authenticate to Amazon EKS
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 04/2021
+- https://aws.amazon.com/blogs/containers/using-dex-dex-k8s-authenticator-to-authenticate-to-amazon -eks/
+## Policy-based countermeasures for Kubernetes – Part 1 & 2
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 03/2021
+- https://aws.amazon.com/blogs/containers/policy-based-countermeasures-for-kubernetes-part-1/
+- https://aws.amazon.com/blogs/containers/policy-based-countermeasures-for-kubernetes-part-2/
+## AWS CDK — Where Imperative Meets Declarative (series)
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 03/2021
+- https://jimmy-ray.medium.com/aws-cdk-where-imperative-meets-declarative-3d23fd4a4dbd
+## Don’t Put Yourself Into a Position to be Unlucky
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 05/2020
+- https://jimmy-ray.medium.com/dont-put-yourself-into-a-position-to-be-unlucky-41df4b4dd8e6
+## Whitelisting AWS Roles in Kubernete
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 06/2019
+- https://medium.com/@jimmy.ray/whitelisting-aws-roles-in-kubernetes-7889a53b1285
+## Container-Ready Applications
+- [Capital One Tech](https://www.capitalone.com/tech/)
+- 01/2019
+- https://medium.com/capital-one-tech/container-ready-applications-with-twelve-factor-app-and-microservices-architecture-16af683a767f
+## Policy Enabled Kubernetes with Open Policy Agent
+- [Capital One Tech](https://www.capitalone.com/tech/)
+- 12/2018
+- https://medium.com/@jimmy.ray/policy-enabled-kubernetes-with-open-policy-agent-3b612b3f0203
+## Using Kubernetes ConfigMap Resources for Dynamic Apps
+- [Capital One Tech](https://www.capitalone.com/tech/)
+- 11/2018
+- https://medium.com/capital-one-tech/using-kubernetes-configmap-resources-for-dynamic-apps-9e23e f589121
+## JSON Processing Pipelines with gron
+- [Capital One Tech](https://www.capitalone.com/tech/)
+- 10/2018
+- https://medium.com/capital-one-tech/json-processing-pipelines-with-gron-6fbd531155d7
