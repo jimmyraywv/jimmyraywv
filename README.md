@@ -29,7 +29,6 @@ Blogs:
 - [Talks](/TALKS.md)
 
 - [Publications](/PUBS.md)
-
 ---
 [Containers from the Couch - episodes](https://www.youtube.com/c/ContainersfromtheCouch/videos)
 - [Kubernetes Virtual clusters with Loft Labs](https://www.youtube.com/watch?v=a8fIyUd9438)
