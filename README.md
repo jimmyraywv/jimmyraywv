@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border: 0px solid navy;"><tr><td><img src="/img/monk-lion.jpg" width="200">
+<!--<table style="border: 0px solid navy;"><tr><td><img src="/img/monk-lion.jpg" width="200">
   </td><td>
   <ul>
   <li><a href="/BIO.md" target="_blank">Bio</a></li>
   <li><a href="https://jimmyray.org/" target="_blank">About Me (site)</a></li></li>
-</ul></td></tr></table>
+</ul></td></tr></table>-->
 
 <img src="/img/monk-lion.jpg" width="200"><br/>
 
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 [About Me (site)](https://jimmyray.org/)
 
 _Learner — Achiever — Strategic — Responsibility — Intellection_
+
+---
 
 Blogs:
 - [blog.jimmyray.io](https://blog.jimmyray.io)
