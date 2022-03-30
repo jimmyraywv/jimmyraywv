@@ -47,7 +47,7 @@ Blogs:
 - [Publications](/PUBS.md)
 - [Tech](/TECH.md)
 ---
-[Containers from the Couch - episodes](https://www.youtube.com/c/ContainersfromtheCouch/videos)
+![CFTC](/img/youtube-light.svg)[Containers from the Couch - episodes](https://www.youtube.com/c/ContainersfromtheCouch/videos)
 - [Kubernetes Virtual clusters with Loft Labs](https://www.youtube.com/watch?v=a8fIyUd9438)
 - [Kubernetes manifest management with Monokle](https://www.youtube.com/watch?v=lsMTOVJJ84o)
 - [Kubernetes policy with Kyverno](https://www.youtube.com/watch?v=dHhgfyH5KRs)
