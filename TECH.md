@@ -13,7 +13,6 @@
 - Java (JEE, Spring, FreeMarker, )
 - Groovy
 - Go
-- JavaScript
 - Bash
 - YAML
 - JSON
