@@ -26,11 +26,18 @@ Here are some ideas to get you started:
 
 [Bio](/BIO.md)
 
-[About Me (site)](https://jimmyray.org/)
-
 _Learner — Achiever — Strategic — Responsibility — Intellection_
 
 ---
+### Social:
+[![website](./img/globe-light.svg)](https://jimmyray.org#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://jimmyray.org#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/jimmyraywv#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/jimmyraywv#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamjimmyray#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamjimmyray#gh-dark-mode-only)
 
 Blogs:
 - [blog.jimmyray.io](https://blog.jimmyray.io)
