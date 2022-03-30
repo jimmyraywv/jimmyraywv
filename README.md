@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Bio](https://github.com/jimmyraywv/jimmyraywv/blob/main/BIO.md)
 ---
 Blogs:
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - [Avoiding Tech-sand](http://www.techsand.com/)
 ---
-
 - [Talks](https://github.com/jimmyraywv/jimmyraywv/blob/main/TALKS.md)
 
 - [Publications](https://github.com/jimmyraywv/jimmyraywv/blob/main/PUBS.md)
