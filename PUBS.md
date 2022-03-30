@@ -62,6 +62,9 @@
 ## Top techniques for integrating AJAX into your new and existing J2EE applications
 - The SPHERE Journal
 - 10/2006
+## Charting Domino Data with Open Source Java Tools
+- Lotus Advisor
+- 03/2006
 ## Java 1.5 Annotations
 - WebSphere Advisor
 - 12/2005
