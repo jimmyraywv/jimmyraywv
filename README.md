@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+Blogs:
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [Avoiding Tech-sand](http://www.techsand.com/)
+---
+
+- [Talks](https://github.com/jimmyraywv/jimmyraywv/blob/main/TALKS.md)
+
+- [Publications](https://github.com/jimmyraywv/jimmyraywv/blob/main/PUBS.md)
+
+- [About Me (site)](https://jimmyray.org/)
+
+
