@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <li><a href="https://jimmyray.org/" target="_blank">About Me (site)</a></li></li>
 </ul></td></tr></table>
 
+_Learner — Achiever — Strategic — Responsibility — Intellection_
+
 Blogs:
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - [Avoiding Tech-sand](http://www.techsand.com/)
