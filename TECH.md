@@ -9,7 +9,9 @@
   - Open Policy Agent (OPA)
   - OPA/Gatekeeper
   - Kyverno
-- Java (JEE, Spring)
+- DevOps
+- Java (JEE, Spring, FreeMarker, )
+- Groovy
 - Go
 - JavaScript
 - Bash
