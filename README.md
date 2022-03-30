@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="/img/me_at_buskey.jpeg"><br/>
+<img src="/img/me_at_buskey.jpeg" width="100" ><br/>
 - [Bio](https://github.com/jimmyraywv/jimmyraywv/blob/main/BIO.md)
 - [About Me (site)](https://jimmyray.org/)
 ---
