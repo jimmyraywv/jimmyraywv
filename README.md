@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="/img/me.jpeg" width="100" ><br/>
-- [Bio](https://github.com/jimmyraywv/jimmyraywv/blob/main/BIO.md)
-- [About Me (site)](https://jimmyray.org/)
----
+
+<table style="border: 1px solid navy;"><tr><td><img src="/img/me.jpeg" width="100">
+  </td><td>
+  <ul>
+  <li><a href="/BIO.md" target=_blank>Bio</a></li>
+  <li><a href="https://jimmyray.org/" target=_blank>About Me (site)</a></li></li>
+</ul></td></tr></table>
+
 Blogs:
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - [Avoiding Tech-sand](http://www.techsand.com/)
 ---
-- [Talks](https://github.com/jimmyraywv/jimmyraywv/blob/main/TALKS.md)
+- [Talks](/TALKS.md)
 
-- [Publications](https://github.com/jimmyraywv/jimmyraywv/blob/main/PUBS.md)
+- [Publications](/PUBS.md)
 
 ---
 [Containers from the Couch - episodes](https://www.youtube.com/c/ContainersfromtheCouch/videos)
