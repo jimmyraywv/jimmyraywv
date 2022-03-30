@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Bio](https://github.com/jimmyraywv/jimmyraywv/blob/main/BIO.md)
+Me
+- [Bio](https://github.com/jimmyraywv/jimmyraywv/blob/main/BIO.md)
+- [About Me (site)](https://jimmyray.org/)
 ---
 Blogs:
 - [blog.jimmyray.io](https://blog.jimmyray.io)
@@ -24,6 +26,6 @@ Blogs:
 
 - [Publications](https://github.com/jimmyraywv/jimmyraywv/blob/main/PUBS.md)
 
-- [About Me (site)](https://jimmyray.org/)
+
 
 
