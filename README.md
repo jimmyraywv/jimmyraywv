@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <table style="border: 0px solid navy;"><tr><td><img src="/img/monk-lion.jpg" width="200">
   </td><td>
   <ul>
-  <li><a href="/BIO.md" target=_blank>Bio</a></li>
-  <li><a href="https://jimmyray.org/" target=_blank>About Me (site)</a></li></li>
+  <li><a href="/BIO.md" target="_blank">Bio</a></li>
+  <li><a href="https://jimmyray.org/" target="_blank">About Me (site)</a></li></li>
 </ul></td></tr></table>
 
 Blogs:
