@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Me
+![Me, Buskey Cider RVA](/img/me_at_buskey.jpeg)
 - [Bio](https://github.com/jimmyraywv/jimmyraywv/blob/main/BIO.md)
 - [About Me (site)](https://jimmyray.org/)
 ---
