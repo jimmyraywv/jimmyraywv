@@ -7,7 +7,8 @@
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 12/2021
 - https://blog.jimmyray.io/the-container-supply-chain-model-7f6901117618
-## Deploying Kubernetes Resources with CDK8s ITNEXT
+## Deploying Kubernetes Resources with CDK8s
+- [ITNEXT](https://itnext.io/)
 - 07/2021
 - https://itnext.io/deploying-kubernetes-resources-with-cdk8s-2c8b07bc45b1
 ## AWS CDK for EKS — Handling Helm Charts
