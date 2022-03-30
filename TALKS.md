@@ -21,4 +21,4 @@
 ## Cloud-Bursting into RackSpace with Jenkins and JClouds
 - OpenStack Summit 2014, 05/2014, Atlanta, GA
 ## MongoDB and Spring Data Integration
-- 08/2012 - 02/2014 + Various US Locations
+- 08/2012 - 02/2014, Various US Locations
