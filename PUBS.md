@@ -89,7 +89,7 @@
 - Lotus Advisor Admin Journal
 - 06/2002
 ## Rnext – Web Application Platform
-– Lotus Advisor
+- Lotus Advisor
 - 01/2002
 ## Track Document Changes with Audit Trails
 - Lotus Advisor
