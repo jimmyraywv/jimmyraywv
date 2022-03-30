@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <li><a href="https://jimmyray.org/" target="_blank">About Me (site)</a></li></li>
 </ul></td></tr></table>
 
-![Monk, The Lion](/img/monk-lion.jpg)
+<img src="/img/monk-lion.jpg" width="200">
 [Bio](/BIO.md)
 [About Me (site)](https://jimmyray.org/)
 
