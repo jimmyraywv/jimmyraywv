@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img src="/img/monk-lion.jpg" width="200"><br/>
 
-[Bio](/BIO.md)
+![Bio](/img/die-svgrepo-com.svg)[Bio](/BIO.md)
 
 _Learner — Achiever — Strategic — Responsibility — Intellection_
 
