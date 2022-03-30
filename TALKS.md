@@ -32,3 +32,7 @@
 - Advisor Summit, 04/2006, Las Vegas, NV
 ## The VIEW Developer Workshop and Technical Conferences
 - 2003-2004, Chicago, Boston, Philadelphia, Geneva-Switzerland, and Amsterdam-Netherlands
+- ND6 Document Locking
+- Using SOAP to Create Web Services with Domino
+- Leverage the Power of OOP for LotusScript Class Development
+- Integrate Domino Data to Oracle Using LC/LSX
