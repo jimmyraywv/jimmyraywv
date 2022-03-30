@@ -1,4 +1,7 @@
 # Online
+## Promise Theory and the Container Supply Chain Model
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 02/2022
 ## The Container Supply Chain Model
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 12/2021
@@ -65,5 +68,31 @@
 ## Java 1.5 Generics
 - WebSphere Advisor
 - 11/2005
-
+## Visual Struts Development with MyEclipse
+- WebSphere Advisor
+- 11/2005
+## ND6 Document Locking
+- The View
+- 10/2004
+## Exporting ND6 Views to Excel via XMLSS
+- Lotus Advisor
+- 04/2004
+## Domino to SAP Web Application Integration
+- ePro Magazine
+- 03/2004
+## Host JSP through Domino 6 and Tomcat
+- Lotus Advisor Admin Journal
+- 06/2002
+## Rnext – Web Application Platform
+– Lotus Advisor
+- 01/2002
+## Track Document Changes with Audit Trails
+- Lotus Advisor
+- 02/2001
+## Protect Views and Folders in Mail Files
+- Lotus Advisor Admin Expert Journal
+- 10/2000
+## Mimic Pages and Resources in 4.6x
+- Lotus Advisor
+- 08/2000
 
