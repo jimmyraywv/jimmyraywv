@@ -2,6 +2,7 @@
 ## Promise Theory and the Container Supply Chain Model
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 02/2022
+- https://blog.jimmyray.io/promise-theory-and-the-container-supply-chain-model-3955edcaffb1
 ## The Container Supply Chain Model
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 12/2021
