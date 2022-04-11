@@ -1,4 +1,9 @@
 # Online
+
+## Amazon EKS, AWS CDK, and Go
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 04/2022
+- https://blog.jimmyray.io/amazon-eks-aws-cdk-and-go-921124b8beb1
 ## Promise Theory and the Container Supply Chain Model
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 02/2022
