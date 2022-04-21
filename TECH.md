@@ -14,12 +14,14 @@
 - Groovy
 - Go
 - Bash
+- Linux utils (sed, awk, cut, grep, etc.)
 - YAML
 - JSON
 
 ## Tech in which I've been a SME in the past
 
 - Lotus Notes/Domino
+- KornShell
 - MongoDB
 - JavaScript
 - HTML
