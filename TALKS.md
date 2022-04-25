@@ -1,3 +1,5 @@
+## Architecting Secure Serverless and Containerized Applications
+- AWS Application Modernization Week, 04/07/2022, Virtual
 ## The Container Supply Chain Model
 - KubeSec Enterprise vSummit, 10/2021, Virtual
 ## The AWS CDK — Where Imperative Meets Declarative
