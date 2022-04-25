@@ -1,5 +1,9 @@
 # Online
 
+## Boto3 with Jupyter Notebook
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 04/2022
+- https://blog.jimmyray.io/boto3-with-jupyter-notebook-721a01eab285
 ## Amazon EKS, AWS CDK, and Go
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 04/2022
