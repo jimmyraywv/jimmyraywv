@@ -52,6 +52,7 @@ Blogs:
 - [Kubernetes manifest management with Monokle](https://www.youtube.com/watch?v=lsMTOVJJ84o)
 - [Kubernetes policy with Kyverno](https://www.youtube.com/watch?v=dHhgfyH5KRs)
 - [Kubernetes workload requests and limits with Goldilocks](https://www.youtube.com/watch?v=DfmQWYiwFDk)
+- [AWS EKS Blueprints for Terraform](https://www.youtube.com/watch?v=TXa-y-Uwh2w)
 
 
 
