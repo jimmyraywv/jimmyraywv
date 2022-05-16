@@ -53,6 +53,7 @@ Blogs:
 - [Kubernetes policy with Kyverno](https://www.youtube.com/watch?v=dHhgfyH5KRs)
 - [Kubernetes workload requests and limits with Goldilocks](https://www.youtube.com/watch?v=DfmQWYiwFDk)
 - [AWS EKS Blueprints for Terraform](https://www.youtube.com/watch?v=TXa-y-Uwh2w)
+- [Container Days - Day 4 - KubeCon EU 2022](https://www.twitch.tv/videos/1482772742)
 
 
 
