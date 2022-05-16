@@ -70,10 +70,19 @@
 ## Rediscover IT Innovation
 - Advisor IT Architect
 - 03/2007
+## Explore a Low-Cost PDF Alternative for IBM Lotus Domino Applications
+- Lotus Advisor
+- 10/2006
 ## Top techniques for integrating AJAX into your new and existing J2EE applications
 - The SPHERE Journal
 - 10/2006
-## Charting Domino Data with Open Source Java Tools
+## Use Swing for Better IBM Lotus Notes User Interfaces
+- Lotus Advisor
+- 05/2006
+## Simplify the charting of Domino data in the Notes client with JFreeChart
+- The VIEW
+- 03/2006
+## Web Services and Domino 7
 - Lotus Advisor
 - 03/2006
 ## Java 1.5 Annotations
@@ -109,4 +118,3 @@
 ## Mimic Pages and Resources in 4.6x
 - Lotus Advisor
 - 08/2000
-
