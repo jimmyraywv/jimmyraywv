@@ -29,7 +29,7 @@
 - 02/2012 Richmond RJUG RVA, 05/2012 TriJUG, Durham, NC
 - [SlideShare](https://www.slideshare.net/jimmyray5832/dynamic-groovy-edges)
 ## PMP Workshop – PMBOK (PMP Framework, Risk, Communications, Integration)
-- 10/2020, PMI Central VA Chapter
+- 10/2010, PMI Central VA Chapter
 ## Lotus Domino - Web Services and RAD
 - Advisor Summit, 04/2006, Las Vegas, NV
 ## The VIEW Developer Workshop and Technical Conferences
