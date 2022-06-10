@@ -1,5 +1,9 @@
 # Online
 
+## Kubernetes Workload Identity with AWS SDK for Go v2
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 06/2022
+- https://blog.jimmyray.io/kubernetes-workload-identity-with-aws-sdk-for-go-v2-927d2f258057
 ## Boto3 with Jupyter Notebook
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 04/2022
