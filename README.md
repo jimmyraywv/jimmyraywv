@@ -30,8 +30,8 @@ _Learner — Achiever — Strategic — Responsibility — Intellection_
 
 ---
 ### Social:
-[![website](./img/globe-light.svg)](https://jimmyray.org#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://jimmyray.org#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://jimmyray.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://jimmyray.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/jimmyraywv#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/jimmyraywv#gh-dark-mode-only)
