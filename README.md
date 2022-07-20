@@ -55,6 +55,7 @@ Blogs:
 - [AWS EKS Blueprints for Terraform](https://www.youtube.com/watch?v=TXa-y-Uwh2w)
 - [Container Days - Day 4 - KubeCon EU 2022](https://www.twitch.tv/videos/1482772742)
 - [Get started with Chaos Engineering with Litmus](https://www.youtube.com/watch?v=5CI8d-SKBfc)
+- [Optimize your containers with slim.ai](https://www.youtube.com/watch?v=DA4ArZYJ1-E)
 
 
 
