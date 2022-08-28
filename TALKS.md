@@ -38,3 +38,5 @@
 - Using SOAP to Create Web Services with Domino
 - Leverage the Power of OOP for LotusScript Class Development
 - Integrate Domino Data to Oracle Using LC/LSX
+- LS2J to call Java from LotusScript
+- JavaScript Techniques for Domino Web Automation
