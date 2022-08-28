@@ -1,4 +1,4 @@
-For me it's ab out people and not technology.
+For me it's about people and not technology.
 
 I am about distilling simplicity from complexity.
 
