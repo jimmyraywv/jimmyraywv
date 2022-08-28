@@ -48,15 +48,17 @@ Blogs:
 - [Tech](/TECH.md)
 ---
 ![CFTC](/img/youtube-light.svg)[Containers from the Couch - episodes](https://www.youtube.com/c/ContainersfromtheCouch/videos)
-- [Kubernetes Virtual clusters with Loft Labs](https://www.youtube.com/watch?v=a8fIyUd9438)
-- [Kubernetes manifest management with Monokle](https://www.youtube.com/watch?v=lsMTOVJJ84o)
-- [Kubernetes policy with Kyverno](https://www.youtube.com/watch?v=dHhgfyH5KRs)
-- [Kubernetes workload requests and limits with Goldilocks](https://www.youtube.com/watch?v=DfmQWYiwFDk)
-- [AWS EKS Blueprints for Terraform](https://www.youtube.com/watch?v=TXa-y-Uwh2w)
-- [Container Days - Day 4 - KubeCon EU 2022](https://www.twitch.tv/videos/1482772742)
-- [Get started with Chaos Engineering with Litmus](https://www.youtube.com/watch?v=5CI8d-SKBfc)
-- [Optimize your containers with slim.ai](https://www.youtube.com/watch?v=DA4ArZYJ1-E)
-
+- **Live Streams**
+  - [Kubernetes Virtual clusters with Loft Labs](https://www.youtube.com/watch?v=a8fIyUd9438)
+  - [Kubernetes manifest management with Monokle](https://www.youtube.com/watch?v=lsMTOVJJ84o)
+  - [Kubernetes policy with Kyverno](https://www.youtube.com/watch?v=dHhgfyH5KRs)
+  - [Kubernetes workload requests and limits with Goldilocks](https://www.youtube.com/watch?v=DfmQWYiwFDk)
+  - [AWS EKS Blueprints for Terraform](https://www.youtube.com/watch?v=TXa-y-Uwh2w)
+  - [Container Days - Day 4 - KubeCon EU 2022](https://www.twitch.tv/videos/1482772742)
+  - [Get started with Chaos Engineering with Litmus](https://www.youtube.com/watch?v=5CI8d-SKBfc)
+  - [Optimize your containers with slim.ai](https://www.youtube.com/watch?v=DA4ArZYJ1-E)
+- **Shorts**
+  - [Kubernetes Dynamic Admission Conrollers](https://www.youtube.com/shorts/otEgN8nW1U8)
 
 
 
