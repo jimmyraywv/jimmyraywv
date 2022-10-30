@@ -1,5 +1,13 @@
 # Online
 
+## Implementing Pod Security Standards in Amazon EKS
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 10/2022
+- https://aws.amazon.com/blogs/containers/implementing-pod-security-standards-in-amazon-eks/
+## Amazon EKS add-ons preserve customer edits
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 10/2022
+- https://aws.amazon.com/blogs/containers/amazon-eks-add-ons-preserve-customer-edits/
 ## Kubernetes Workload Identity with AWS SDK for Go v2
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 06/2022
