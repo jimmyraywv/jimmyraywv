@@ -161,6 +161,38 @@
 - [Avoiding Techsand](https://www.techsand.com/)
 - 01/2011
 - https://www.techsand.com/2011/01/what-is-wayfinding.html
+## Lead, or get out of the way!
+- [Avoiding Techsand](https://www.techsand.com/)
+- 01/2011
+- https://www.techsand.com/2011/01/lead-or-get-out-of-way.html
+## Doing Work Through Serial Accidents
+- [Avoiding Techsand](https://www.techsand.com/)
+- 01/2011
+- https://www.techsand.com/2011/01/doing-work-by-accident.html
+## Java Parallelization Options
+- [Avoiding Techsand](https://www.techsand.com/)
+- 12/2010
+- https://www.techsand.com/2010/12/java-parallelization-options.html
+## J2EE design patterns for Performance and Scalability
+- [Avoiding Techsand](https://www.techsand.com/)
+- 11/2010
+- https://www.techsand.com/2010/11/j2ee-design-patterns-for-performance.html
+## IT Hero Worship is not a Successful Long Term Strategy
+- [Avoiding Techsand](https://www.techsand.com/)
+- 06/2010
+- https://www.techsand.com/2010/06/it-hero-worship-its-just-wrong.html
+## Tech-sand vs. Technical Debt
+- [Avoiding Techsand](https://www.techsand.com/)
+- 06/2010
+- https://www.techsand.com/2010/06/tech-sand-vs-technical-debt.html
+## Mapping Agile Success
+- [Avoiding Techsand](https://www.techsand.com/)
+- 03/2010
+- https://www.techsand.com/2010/03/mapping-scrum-success.html
+## Hacking Work...
+- [Avoiding Techsand](https://www.techsand.com/)
+- 03/2010
+- https://www.techsand.com/2010/03/hacking-work.html
 
 # Print
 ## Rediscover IT Innovation
