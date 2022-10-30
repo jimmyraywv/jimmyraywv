@@ -77,6 +77,90 @@
 - [Capital One Tech](https://www.capitalone.com/tech/)
 - 10/2018
 - https://medium.com/capital-one-tech/json-processing-pipelines-with-gron-6fbd531155d7
+## Simple Pagination for MongoDB Queries Using QueryDSL
+- [Avoiding Techsand](https://www.techsand.com/)
+- 05/2013
+- https://www.techsand.com/2013/05/simple-pagination-for-mongodb-queries.html
+## 2dsphere Indexes in Mongo 2.4
+- [Avoiding Techsand](https://www.techsand.com/)
+- 05/2013
+- https://www.techsand.com/2013/05/2dsphere-indexes-in-mongo-24.html
+## MongoDB 2.4 - Text Indexes
+- [Avoiding Techsand](https://www.techsand.com/)
+- 05/2013
+- https://www.techsand.com/2013/05/mongodb-24-text-indexes.html
+## Java-based BDD with Cucumber
+- [Avoiding Techsand](https://www.techsand.com/)
+- 10/2012
+- https://www.techsand.com/2012/10/java-based-bdd-with-cucumber.html
+## Spring Provisional/Conditional Bean Loading (Part 2)
+- [Avoiding Techsand](https://www.techsand.com/)
+- 09/2012
+- https://www.techsand.com/2012/09/spring-provisionalconditional-bean_6.html
+## Spring Provisional/Conditional Bean Loading (Part 1)
+- [Avoiding Techsand](https://www.techsand.com/)
+- 09/2012
+- https://www.techsand.com/2012/09/spring-provisionalconditional-bean.html
+## Storing Documents in MarkLogic via XCC
+- [Avoiding Techsand](https://www.techsand.com/)
+- 08/2012
+- https://www.techsand.com/2012/08/storing-documents-in-marklogic-via-xcc.html
+## MarkLogic - NoSQL for XML
+- [Avoiding Techsand](https://www.techsand.com/)
+- 08/2012
+- https://www.techsand.com/2012/08/marklogic-nosql-for-xml_28.html
+## Do You Trust Your Mechanic?
+- [Avoiding Techsand](https://www.techsand.com/)
+- 07/2012
+- https://www.techsand.com/2012/07/do-you-trust-your-mechanic.html
+## MongoDB and Spring Data
+- [Avoiding Techsand](https://www.techsand.com/)
+- 05/2012
+- https://www.techsand.com/2012/05/mongodb-and-spring-data.html
+## MongoDB - Jongo and Morphia
+- [Avoiding Techsand](https://www.techsand.com/)
+- 04/2012
+- https://www.techsand.com/2012/04/mongodb-jongo-and-morphia.html
+## Lotus Notes: One of the First NoSQL Databases - No Really!
+- [Avoiding Techsand](https://www.techsand.com/)
+- 01/2012
+- https://www.techsand.com/2012/01/lotus-notes-one-of-first-nosql.html
+## Dynamic Groovy Edges and Regression Isolation
+- [Avoiding Techsand](https://www.techsand.com/)
+- 12/2011
+- https://www.techsand.com/2011/12/dynamic-groovy-edges-and-regression.html
+## JEE Developers: Embrace the Polyglot in You
+- [Avoiding Techsand](https://www.techsand.com/)
+- 11/2011
+- https://www.techsand.com/2011/11/polyglot-in-you.html
+## JSR 303 – Patterns and Anti-patterns with Hibernate and Spring Web Flow
+- [Avoiding Techsand](https://www.techsand.com/)
+- 07/2011
+- https://www.techsand.com/2011/07/jsr-303-patterns-and-anti-patterns-with.html
+## https://www.techsand.com/2011/07/instrumentation-with-java-mmxbeans-and.html
+- [Avoiding Techsand](https://www.techsand.com/)
+- 07/2011
+- https://www.techsand.com/2011/07/instrumentation-with-java-mmxbeans-and.html
+## Software Estimation - Fibonacci Meets PERT
+- [Avoiding Techsand](https://www.techsand.com/)
+- 07/2011
+- https://www.techsand.com/2011/07/software-estimation-fibonacci-meets.html
+## Software Estimation - An Organic Approach
+- [Avoiding Techsand](https://www.techsand.com/)
+- 05/2011
+- https://www.techsand.com/2011/05/software-estimation-organic-approach.html
+## Are you an upbeat artist or a sand bag engineer?
+- [Avoiding Techsand](https://www.techsand.com/)
+- 05/2011
+- https://www.techsand.com/2011/05/are-you-upbeat-artist-or-sand-bag.html
+## Taxing and Permitting - Architectural Levers
+- [Avoiding Techsand](https://www.techsand.com/)
+- 03/2011
+- https://www.techsand.com/2011/03/taxing-and-permitting-architectural.html
+## What is wayfinding?
+- [Avoiding Techsand](https://www.techsand.com/)
+- 01/2011
+- https://www.techsand.com/2011/01/what-is-wayfinding.html
 
 # Print
 ## Rediscover IT Innovation
