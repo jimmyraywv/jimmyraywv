@@ -137,7 +137,7 @@
 - [Avoiding Techsand](https://www.techsand.com/)
 - 07/2011
 - https://www.techsand.com/2011/07/jsr-303-patterns-and-anti-patterns-with.html
-## https://www.techsand.com/2011/07/instrumentation-with-java-mmxbeans-and.html
+## Picking up old and new instruments: Java M(MX)Beans and Agents
 - [Avoiding Techsand](https://www.techsand.com/)
 - 07/2011
 - https://www.techsand.com/2011/07/instrumentation-with-java-mmxbeans-and.html
