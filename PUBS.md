@@ -1,5 +1,9 @@
 # Online
 
+## Managing Pod Security on Amazon EKS with Kyverno
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 11/2022
+- https://aws.amazon.com/blogs/containers/managing-pod-security-on-amazon-eks-with-kyverno/
 ## Implementing Pod Security Standards in Amazon EKS
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 10/2022
