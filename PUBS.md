@@ -48,7 +48,7 @@
 - [ITNEXT](https://itnext.io/)
 - 05/2021
 - https://itnext.io/aws-cdk-for-eks-kubernetes-manifest-handling-ebdec52e7f01
-## Using Dex & dex-k8s- authenticator to authenticate to Amazon EKS
+## Using Dex & dex-k8s-authenticator to authenticate to Amazon EKS
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 04/2021
 - https://aws.amazon.com/blogs/containers/using-dex-dex-k8s-authenticator-to-authenticate-to-amazon -eks/
