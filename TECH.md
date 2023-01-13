@@ -1,6 +1,7 @@
 ## Tech I am comforable doing and/or teaching
 
 - AWS
+  - IAM, Organizations, Service Control Policies, Service Catalog
   - EC2, EKS, ECS, ECR, S3, RDS, Athena, CloudWatch, CloudTrail, ACM, Route53
   - Containers
   - CDK (Java and Go)
@@ -14,13 +15,13 @@
   - KubeWarden
   - Cloud Custodian (c7n)
 - DevOps
+- Go
 - Java (JEE, Spring)
 - Groovy
-- Go
 - Bash
 - Linux utils (sed, awk, cut, grep, etc.)
 - YAML (yq, ytt)
-- JSON (jq)
+- JSON (jq, JSONPath)
 
 ## Tech in which I've been a SME in the past
 
