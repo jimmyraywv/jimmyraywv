@@ -1,5 +1,9 @@
 # Online
 
+## Amazon EKS add-ons: Advanced configuration
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 12/2022
+- https://aws.amazon.com/blogs/containers/amazon-eks-add-ons-advanced-configuration/
 ## Managing Pod Security on Amazon EKS with Kyverno
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 11/2022
