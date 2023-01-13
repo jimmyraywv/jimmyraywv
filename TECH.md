@@ -1,8 +1,8 @@
-## Tech I am comforable doing and/or teaching
+## Tech I am comfortable architecturing, teaching, and doing
 
 - AWS
   - IAM, Organizations, Service Control Policies, Service Catalog
-  - EC2, EKS, ECS, ECR, S3, RDS, Athena, CloudWatch, CloudTrail, ACM, Route53
+  - EC2, EKS, ECS, ECR, S3, Athena, CloudWatch, CloudTrail, ACM, Route53
   - Containers
   - CDK (Java and Go)
 - Containers
