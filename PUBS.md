@@ -65,7 +65,7 @@
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 05/2020
 - https://jimmy-ray.medium.com/dont-put-yourself-into-a-position-to-be-unlucky-41df4b4dd8e6
-## Whitelisting AWS Roles in Kubernete
+## Whitelisting AWS Roles in Kubernetes
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 06/2019
 - https://medium.com/@jimmy.ray/whitelisting-aws-roles-in-kubernetes-7889a53b1285
