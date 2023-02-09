@@ -203,7 +203,7 @@
 - https://www.techsand.com/2010/03/hacking-work.html
 
 # Print
-## Rediscover IT Innovation
+## Rediscover IT Innovation - Managing Emerging Technologies
 - Advisor IT Architect
 - 03/2007
 ## Explore a Low-Cost PDF Alternative for IBM Lotus Domino Applications
