@@ -3,7 +3,7 @@
 ## Managing Innovation
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 02/2023
-- https://medium.com/@jimmy-ray/managing-innovation-b126cfc171b8
+- https://blog.jimmyray.io/managing-innovation-b126cfc171b8
 ## Amazon EKS add-ons: Advanced configuration
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 12/2022
@@ -64,15 +64,15 @@
 ## AWS CDK — Where Imperative Meets Declarative (series)
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 03/2021
-- https://jimmy-ray.medium.com/aws-cdk-where-imperative-meets-declarative-3d23fd4a4dbd
+- https://blog.jimmyray.io/aws-cdk-where-imperative-meets-declarative-3d23fd4a4dbd
 ## Don’t Put Yourself Into a Position to be Unlucky
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 05/2020
-- https://jimmy-ray.medium.com/dont-put-yourself-into-a-position-to-be-unlucky-41df4b4dd8e6
+- https://medium.com/personally-me/dont-put-yourself-into-a-position-to-be-unlucky-41df4b4dd8e6
 ## Whitelisting AWS Roles in Kubernetes
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 06/2019
-- https://medium.com/@jimmy.ray/whitelisting-aws-roles-in-kubernetes-7889a53b1285
+- https://blog.jimmyray.io/whitelisting-aws-roles-in-kubernetes-7889a53b1285
 ## Container-Ready Applications
 - [Capital One Tech](https://www.capitalone.com/tech/)
 - 01/2019
