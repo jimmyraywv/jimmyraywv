@@ -1,5 +1,9 @@
 # Online
 
+## Managing Innovation
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 02/2023
+- https://medium.com/@jimmy-ray/managing-innovation-b126cfc171b8
 ## Amazon EKS add-ons: Advanced configuration
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 12/2022
