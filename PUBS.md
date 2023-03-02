@@ -1,5 +1,9 @@
 # Online
 
+## Discover K8s Through Its APIs
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 03/2023
+- https://medium.com/@jimmy-ray/discover-k8s-through-its-apis-e2f90937a19f
 ## Managing Innovation
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 02/2023
