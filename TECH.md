@@ -20,8 +20,8 @@
 - Groovy
 - Bash
 - Linux utils (sed, awk, cut, grep, etc.)
-- YAML (yq, ytt)
-- JSON (jq, JSONPath)
+- YAML (yq, ytt, anchors)
+- JSON (jq, JSONPath, JMESPath)
 
 ## Tech in which I've been a SME in the past
 
