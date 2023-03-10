@@ -5,6 +5,7 @@
   - EC2, EKS, ECS, ECR, S3, Athena, CloudWatch, CloudTrail, ACM, Route53
   - Containers
   - CDK (Java and Go)
+  - SDK (Go)
 - Containers
 - Kubernetes
 - Policy-as-code
