@@ -58,6 +58,7 @@ Blogs:
   - [Get started with Chaos Engineering with Litmus](https://www.youtube.com/watch?v=5CI8d-SKBfc)
   - [Optimize your containers with slim.ai](https://www.youtube.com/watch?v=DA4ArZYJ1-E)
   - [Improving Secret Management in K8s with ESO](https://www.youtube.com/watch?v=FityN80Cpto)
+  - [GuardDuty: EKS Runtime Protection](https://www.youtube.com/watch?v=Uf_5qVAond4)
 - **Video Shorts**
   - [Kubernetes Dynamic Admission Conrollers](https://www.youtube.com/shorts/otEgN8nW1U8)
 
