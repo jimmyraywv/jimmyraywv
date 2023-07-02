@@ -1,5 +1,9 @@
 # Online
 
+## Announcing Container Image Signing with AWS Signer and Amazon EKS
+- [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
+- 06/2023
+- https://aws.amazon.com/blogs/containers/announcing-container-image-signing-with-aws-signer-and-amazon-eks/
 ## Discover K8s Through Its APIs
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 03/2023
