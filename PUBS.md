@@ -64,7 +64,7 @@
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 04/2021
 - https://aws.amazon.com/blogs/containers/using-dex-dex-k8s-authenticator-to-authenticate-to-amazon -eks/
-## Policy-based countermeasures for Kubernetes – Part 1 & 2
+## Policy-based countermeasures for Kubernetes – Parts 1 & 2
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 03/2021
 - https://aws.amazon.com/blogs/containers/policy-based-countermeasures-for-kubernetes-part-1/
