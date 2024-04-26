@@ -4,6 +4,9 @@
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 04/2023
 - https://blog.jimmyray.io/the-importance-of-builders-d2f6b765eca4
+## I must not fear…
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- https://blog.jimmyray.io/i-must-not-fear-82f07ae87376
 ## Announcing Container Image Signing with AWS Signer and Amazon EKS
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 06/2023
