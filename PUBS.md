@@ -1,5 +1,9 @@
 # Online
 
+## The Importance of Builders
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 04/2023
+- https://blog.jimmyray.io/the-importance-of-builders-d2f6b765eca4
 ## Announcing Container Image Signing with AWS Signer and Amazon EKS
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 06/2023
