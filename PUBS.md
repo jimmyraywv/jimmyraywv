@@ -1,5 +1,9 @@
 # Online
 
+## Removing the Person from the Loop with Policy as Code
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 05/2023
+- https://blog.jimmyray.io/removing-the-person-from-the-loop-with-policy-as-code-1fd073e67373
 ## The Importance of Builders
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 04/2023
