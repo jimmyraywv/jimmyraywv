@@ -1,5 +1,9 @@
 # Online
 
+## Integrating GRC, FinOps, and Cybersecurity with Policy as Code
+- [blog.jimmyray.io](https://blog.jimmyray.io)
+- 05/2023
+- https://blog.jimmyray.io/integrating-grc-finops-and-cybersecurity-with-policy-as-code-a22056471fd5
 ## Removing the Person from the Loop with Policy as Code
 - [blog.jimmyray.io](https://blog.jimmyray.io)
 - 05/2023
