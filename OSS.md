@@ -60,5 +60,5 @@ https://github.com/jimmyraywv/aws-sdk-go-v2-irsa-ecr
 
 ---
 
-## Open Policy Agent Bundle Server
+### Open Policy Agent Bundle Server
 https://github.com/jimmyraywv/opa-golang-bundle-server
