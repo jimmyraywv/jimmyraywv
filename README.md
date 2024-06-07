@@ -46,6 +46,7 @@ Blogs:
 - [Talks](/TALKS.md)
 - [Publications](/PUBS.md)
 - [Tech](/TECH.md)
+- [Open Source Projects](/OSS.md)
 ---
 ![CFTC](/img/youtube-light.svg)[Containers from the Couch](https://www.youtube.com/c/ContainersfromtheCouch/videos)
 - **Live Stream Episodes**
