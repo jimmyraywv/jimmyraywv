@@ -2,15 +2,15 @@
 
 ## Integrating GRC, FinOps, and Cybersecurity with Policy as Code
 - [blog.jimmyray.io](https://blog.jimmyray.io)
-- 05/2023
+- 05/2024
 - https://blog.jimmyray.io/integrating-grc-finops-and-cybersecurity-with-policy-as-code-a22056471fd5
 ## Removing the Person from the Loop with Policy as Code
 - [blog.jimmyray.io](https://blog.jimmyray.io)
-- 05/2023
+- 05/2024
 - https://blog.jimmyray.io/removing-the-person-from-the-loop-with-policy-as-code-1fd073e67373
 ## The Importance of Builders
 - [blog.jimmyray.io](https://blog.jimmyray.io)
-- 04/2023
+- 04/2024
 - https://blog.jimmyray.io/the-importance-of-builders-d2f6b765eca4
 ## I must not fear…
 - [blog.jimmyray.io](https://blog.jimmyray.io)
