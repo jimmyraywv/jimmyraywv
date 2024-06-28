@@ -1,3 +1,5 @@
+First and foremost, NaTF!
+
 For me it's about people and not technology.
 
 I am about distilling simplicity from complexity.
