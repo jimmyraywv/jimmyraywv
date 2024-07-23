@@ -1,7 +1,7 @@
 # Books
 
 ## Policy as Code - Improving Cloud Native Security
-- [O'Reilly](https://www.oreilly.com/library/view/policy-as-code/9781098139179/)
+- [O'Reilly Media, Inc.](https://www.oreilly.com/library/view/policy-as-code/9781098139179/)
 - 07/2024
 
 # Online
