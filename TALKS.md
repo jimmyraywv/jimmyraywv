@@ -1,3 +1,5 @@
+## AI for Policy and Policy for AI! - Panel Discussion
+- KubeCon North America 2024
 ## Architecting Secure Serverless and Containerized Applications
 - AWS Application Modernization Week, 04/07/2022, Virtual
 ## The Container Supply Chain Model
