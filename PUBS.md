@@ -5,8 +5,8 @@
 - 07/2024
 
 __Book Signing__
-- KubeCon North America 2024 - 2024-11
-- Black Hat USA 2024 - 2024-08
+- KubeCon North America 2024 - 11/2024
+- Black Hat USA 2024 - 08/2024
 
 # Online Posts
 
