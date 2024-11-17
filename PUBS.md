@@ -4,7 +4,7 @@
 - [O'Reilly Media, Inc.](https://www.oreilly.com/library/view/policy-as-code/9781098139179/)
 - 07/2024
 
-# Online
+# Online Posts
 
 ## Integrating GRC, FinOps, and Cybersecurity with Policy as Code
 - [blog.jimmyray.io](https://blog.jimmyray.io)
@@ -236,7 +236,7 @@
 - 03/2010
 - https://www.techsand.com/2010/03/hacking-work.html
 
-# Print
+# Print Media
 ## Rediscover IT Innovation - Managing Emerging Technologies
 - Advisor IT Architect
 - 03/2007
