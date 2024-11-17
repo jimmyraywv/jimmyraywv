@@ -4,6 +4,10 @@
 - [O'Reilly Media, Inc.](https://www.oreilly.com/library/view/policy-as-code/9781098139179/)
 - 07/2024
 
+__Book Signing__
+- KubeCon North America 2024 - 2024-11
+- Black Hat USA 2024 - 2024-08
+
 # Online Posts
 
 ## Integrating GRC, FinOps, and Cybersecurity with Policy as Code
