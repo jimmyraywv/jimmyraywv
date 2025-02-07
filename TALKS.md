@@ -1,3 +1,5 @@
+## Policy as Code - Preventing the Unwanted and Reacting to the Unplanned
+- [CyberConVA 2025](https://rvatech.com/rvatech-events/cyberconva-2025/)
 ## AI for Policy and Policy for AI! - Panel Discussion
 - KubeCon North America 2024
 ## Architecting Secure Serverless and Containerized Applications
