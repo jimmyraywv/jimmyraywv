@@ -3,7 +3,7 @@
 ## Policy as Code - Preventing the Unwanted and Reacting to the Unplanned
 - [CyberConVA 2025](https://rvatech.com/rvatech-events/cyberconva-2025/), 02/06/2025, Richmond, VA
 ## AI for Policy and Policy for AI! - Panel Discussion
-- KubeCon North America 2024, 11/13/2024
+- KubeCon North America 2024, 11/13/2024, Salt Lake City, UT
 ## Architecting Secure Serverless and Containerized Applications
 - AWS Application Modernization Week, 04/07/2022, Virtual
 ## The Container Supply Chain Model
