@@ -9,20 +9,21 @@
 - Containers
 - Kubernetes
 - Policy-as-code
-  - Open Policy Agent (OPA)
+  - Open Policy Agent (OPA, Styra DAS)
   - OPA/Gatekeeper
   - Kyverno
   - jsPolicy
   - KubeWarden
   - Cloud Custodian (c7n)
-- DevOps
-- Go
+  - Cue
+- DevOps/DevSecOPs/Secure-by-Design
 - Java (JEE, Spring)
+- Go
 - Groovy
 - Bash
 - Linux utils (sed, awk, cut, grep, etc.)
 - YAML (yq, ytt, anchors)
-- JSON (jq, JSONPath, JMESPath)
+- JSON (jq, JSONPath, JMESPath, JSONL, gron)
 
 ## Tech in which I've been a SME in the past
 
