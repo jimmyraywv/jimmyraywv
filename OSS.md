@@ -1,7 +1,7 @@
 # Open Source Software (OSS) Projects
 
 ### Ratify - Kubernetes artifact verification engine
-https://github.com/deislabs/ratify
+https://github.com/ratify-project/ratify
 
 ---
 
