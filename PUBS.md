@@ -4,6 +4,16 @@
 - [O'Reilly Media, Inc.](https://www.oreilly.com/library/view/policy-as-code/9781098139179/)
 - 07/2024
 
+> Policy as Code (PaC)—the focus of this
+book—is the use of code artifacts to manage and apply rules and
+conditions. Policy engines are the programs that interpret policy
+artifacts to apply policy decisions. The rules and conditions defined
+in policy artifacts help us implement standards and policies that we
+have created or adopted. These implementations—known as con‐
+trols—apply security, compliance, governance, and best-practices
+decisions that are designed to prevent and react to unwanted
+changes within the systems we support and use.
+
 __Book Signing__
 - KubeCon North America 2024 - 11/2024
 - Black Hat USA 2024 - 08/2024
