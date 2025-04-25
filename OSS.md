@@ -1,5 +1,10 @@
 # Open Source Software (OSS) Projects
 
+### Devnexus 2025 Conference Talk on Policy as Code
+https://github.com/jimmyraywv/devnexus-2025-pac
+
+---
+
 ### Ratify - Kubernetes artifact verification engine
 https://github.com/ratify-project/ratify
 
