@@ -1,3 +1,5 @@
+## Validating Java with Policy as Code (PaC)
+- [RVA Java Users Group](https://www.meetup.com/richmond-java-users-group/events/307601386/), 06/24/2025, Richmond, VA
 ## Software Supply Chain Security with Policy as Code
 - Devnexus 2025, 03/05/2025, Atlanta, GA
 ## Policy as Code - Preventing the Unwanted and Reacting to the Unplanned
