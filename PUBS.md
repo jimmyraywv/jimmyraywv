@@ -21,33 +21,33 @@ __Book Signing__
 # Online Posts
 
 ## Integrating GRC, FinOps, and Cybersecurity with Policy as Code
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 05/2024
-- https://blog.jimmyray.io/integrating-grc-finops-and-cybersecurity-with-policy-as-code-a22056471fd5
+- https://blog.jimmyray.me/integrating-grc-finops-and-cybersecurity-with-policy-as-code-a22056471fd5
 ## Removing the Person from the Loop with Policy as Code
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 05/2024
-- https://blog.jimmyray.io/removing-the-person-from-the-loop-with-policy-as-code-1fd073e67373
+- https://blog.jimmyray.me/removing-the-person-from-the-loop-with-policy-as-code-1fd073e67373
 ## The Importance of Builders
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 04/2024
-- https://blog.jimmyray.io/the-importance-of-builders-d2f6b765eca4
+- https://blog.jimmyray.me/the-importance-of-builders-d2f6b765eca4
 ## I must not fear…
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 11/2023
-- https://blog.jimmyray.io/i-must-not-fear-82f07ae87376
+- https://blog.jimmyray.me/i-must-not-fear-82f07ae87376
 ## Announcing Container Image Signing with AWS Signer and Amazon EKS
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 06/2023
 - https://aws.amazon.com/blogs/containers/announcing-container-image-signing-with-aws-signer-and-amazon-eks/
 ## Discover K8s Through Its APIs
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 03/2023
-- https://blog.jimmyray.io/discover-k8s-through-its-apis-e2f90937a19f
+- https://blog.jimmyray.me/discover-k8s-through-its-apis-e2f90937a19f
 ## Managing Innovation
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 02/2023
-- https://blog.jimmyray.io/managing-innovation-b126cfc171b8
+- https://blog.jimmyray.me/managing-innovation-b126cfc171b8
 ## Amazon EKS add-ons: Advanced configuration
 - [AWS Containers Blog](https://aws.amazon.com/blogs/containers/)
 - 12/2022
@@ -65,25 +65,25 @@ __Book Signing__
 - 10/2022
 - https://aws.amazon.com/blogs/containers/amazon-eks-add-ons-preserve-customer-edits/
 ## Kubernetes Workload Identity with AWS SDK for Go v2
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 06/2022
-- https://blog.jimmyray.io/kubernetes-workload-identity-with-aws-sdk-for-go-v2-927d2f258057
+- https://blog.jimmyray.me/kubernetes-workload-identity-with-aws-sdk-for-go-v2-927d2f258057
 ## Boto3 with Jupyter Notebook
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 04/2022
-- https://blog.jimmyray.io/boto3-with-jupyter-notebook-721a01eab285
+- https://blog.jimmyray.me/boto3-with-jupyter-notebook-721a01eab285
 ## Amazon EKS, AWS CDK, and Go
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 04/2022
-- https://blog.jimmyray.io/amazon-eks-aws-cdk-and-go-921124b8beb1
+- https://blog.jimmyray.me/amazon-eks-aws-cdk-and-go-921124b8beb1
 ## Promise Theory and the Container Supply Chain Model
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 02/2022
-- https://blog.jimmyray.io/promise-theory-and-the-container-supply-chain-model-3955edcaffb1
+- https://blog.jimmyray.me/promise-theory-and-the-container-supply-chain-model-3955edcaffb1
 ## The Container Supply Chain Model
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 12/2021
-- https://blog.jimmyray.io/the-container-supply-chain-model-7f6901117618
+- https://blog.jimmyray.me/the-container-supply-chain-model-7f6901117618
 ## Deploying Kubernetes Resources with CDK8s
 - [ITNEXT](https://itnext.io/)
 - 07/2021
@@ -106,17 +106,17 @@ __Book Signing__
 - https://aws.amazon.com/blogs/containers/policy-based-countermeasures-for-kubernetes-part-1/
 - https://aws.amazon.com/blogs/containers/policy-based-countermeasures-for-kubernetes-part-2/
 ## AWS CDK — Where Imperative Meets Declarative (series)
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 03/2021
-- https://blog.jimmyray.io/aws-cdk-where-imperative-meets-declarative-3d23fd4a4dbd
+- https://blog.jimmyray.me/aws-cdk-where-imperative-meets-declarative-3d23fd4a4dbd
 ## Don’t Put Yourself Into a Position to be Unlucky
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 05/2020
 - https://medium.com/personally-me/dont-put-yourself-into-a-position-to-be-unlucky-41df4b4dd8e6
 ## Whitelisting AWS Roles in Kubernetes
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - 06/2019
-- https://blog.jimmyray.io/whitelisting-aws-roles-in-kubernetes-7889a53b1285
+- https://blog.jimmyray.me/whitelisting-aws-roles-in-kubernetes-7889a53b1285
 ## Container-Ready Applications
 - [Capital One Tech](https://www.capitalone.com/tech/)
 - 01/2019
