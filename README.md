@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </td><td>
   <ul>
   <li><a href="/BIO.md" target="_blank">Bio</a></li>
-  <li><a href="https://jimmyray.io/" target="_blank">About Me (site)</a></li></li>
+  <li><a href="https://jimmyray.me/" target="_blank">About Me (site)</a></li></li>
 </ul></td></tr></table>-->
 
 <img src="/img/monk-lion.jpg" width="200"><br/>
@@ -40,7 +40,7 @@ _Learner — Achiever — Strategic — Responsibility — Intellection_
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamjimmyray#gh-dark-mode-only)
 
 Blogs:
-- [blog.jimmyray.io](https://blog.jimmyray.io)
+- [blog.jimmyray.me](https://blog.jimmyray.me)
 - [Avoiding Tech-sand](https://www.techsand.com/)
 ---
 - [Talks](/TALKS.md)
