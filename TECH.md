@@ -1,5 +1,6 @@
 ## Tech I am comfortable architecturing, teaching, and doing
 
+- ANTLR
 - AWS
   - IAM, Organizations, Service Control Policies, Service Catalog
   - EC2, EKS, ECS, ECR, S3, Athena, CloudWatch, CloudTrail, ACM, Route53
@@ -8,16 +9,17 @@
   - SDK (Go)
 - Containers
 - Kubernetes
+- Make
 - Policy-as-code
-  - Open Policy Agent (OPA, Styra DAS)
+  - Open Policy Agent (OPA, Styra DAS, Conftest, OPA SDKs (Go and Java))
   - OPA/Gatekeeper
   - Kyverno
   - jsPolicy
   - KubeWarden
   - Cloud Custodian (c7n)
-  - Cue
+  - Configure Unify Execute (CUE)
 - DevOps/DevSecOPs/Secure-by-Design
-- Java (JEE, Spring)
+- Java (JavaParser, JEE, Spring)
 - Go
 - Groovy
 - Bash
