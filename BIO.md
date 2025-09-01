@@ -4,7 +4,7 @@ For me it's about people and not technology.
 
 I am about distilling simplicity from complexity.
 
-I am currerntly a Sr. Developer Advocate on the AWS Kubernetes team, supporting [Amazon EKS](https://aws.amazon.com/eks/) and [Kubernetes](https://www.youtube.com/watch?v=DfmQWYiwFDk).
+I am currerntly a Sr. Distinguished Engineer at Capital One.
 
 I am a programmer/developer who focuses on Cloud and Container technology adoption.
 
