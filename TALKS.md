@@ -1,3 +1,5 @@
+## Supercharging the Software Supply Chain with Policy as Code
+- [RVATech Code & Cloud Conference - 2025](https://rvatech.com/rvatech-events/2025-rvatech-code-cloud-conference/)
 ## Validating Java with Policy as Code (PaC)
 - [RVA Java Users Group](https://rvajug.org/reunions/validating-java-with-policy-as-code-pac/), 06/24/2025, Richmond, VA
 ## Software Supply Chain Security with Policy as Code
