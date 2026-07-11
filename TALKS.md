@@ -1,3 +1,7 @@
+## Generating OPA Policies Using Claude Code Skills
+- Capital One Async Live 2026, 04/2026, Richmond, VA
+## Supercharging the Software Supply Chain with Policy as Code
+- Capital One SECON 2025, 09/2025, Richmond, VA
 ## Supercharging the Software Supply Chain with Policy as Code
 - [RVATech Code & Cloud Conference - 2025](https://rvatech.com/rvatech-events/2025-rvatech-code-cloud-conference/), 11/20/2025, Richmond, VA
 ## Supercharging the Software Supply Chain with Policy as Code
