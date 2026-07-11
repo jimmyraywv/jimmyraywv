@@ -20,6 +20,11 @@ __Book Signing__
 
 # Online Posts
 
+## Optimizing OPA performance: From arrays to objects
+- [Capital One Tech Blog](https://www.capitalone.com/tech/blog)
+- 07/2026
+- https://www.capitalone.com/tech/software-engineering/optimizing-opa-performance/
+
 ## Integrating GRC, FinOps, and Cybersecurity with Policy as Code
 - [blog.jimmyray.me](https://blog.jimmyray.me)
 - 05/2024
